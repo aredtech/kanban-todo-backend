@@ -21,7 +21,7 @@ const contentSchema = Schema(
     },
     contentStatus: {
       type: Boolean,
-      default: true,
+      default: truegi,
     },
   },
   {
